@@ -24,6 +24,7 @@ import { faker as fakerEN_GH } from './en_GH';
 import { faker as fakerEN_HK } from './en_HK';
 import { faker as fakerEN_IE } from './en_IE';
 import { faker as fakerEN_IN } from './en_IN';
+import { faker as fakerEN_KE } from './en_KE';
 import { faker as fakerEN_NG } from './en_NG';
 import { faker as fakerEN_US } from './en_US';
 import { faker as fakerEN_ZA } from './en_ZA';
@@ -95,6 +96,7 @@ export {
   fakerEN_HK,
   fakerEN_IE,
   fakerEN_IN,
+  fakerEN_KE,
   fakerEN_NG,
   fakerEN_US,
   fakerEN_ZA,
@@ -167,6 +169,7 @@ export const allFakers = {
   en_HK: fakerEN_HK,
   en_IE: fakerEN_IE,
   en_IN: fakerEN_IN,
+  en_KE: fakerEN_KE,
   en_NG: fakerEN_NG,
   en_US: fakerEN_US,
   en_ZA: fakerEN_ZA,

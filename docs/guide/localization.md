@@ -71,6 +71,7 @@ In this example there are 5 locales. Each of these is checked in order, and the 
 | `en_HK`       | English (Hong Kong)       | `fakerEN_HK`       |
 | `en_IE`       | English (Ireland)         | `fakerEN_IE`       |
 | `en_IN`       | English (India)           | `fakerEN_IN`       |
+| `en_KE`       | English (Kenya)           | `fakerEN_KE`       |
 | `en_NG`       | English (Nigeria)         | `fakerEN_NG`       |
 | `en_US`       | English (United States)   | `fakerEN_US`       |
 | `en_ZA`       | English (South Africa)    | `fakerEN_ZA`       |

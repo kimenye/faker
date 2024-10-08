@@ -24,6 +24,7 @@ import { default as en_GH } from './en_GH';
 import { default as en_HK } from './en_HK';
 import { default as en_IE } from './en_IE';
 import { default as en_IN } from './en_IN';
+import { default as en_KE } from './en_KE';
 import { default as en_NG } from './en_NG';
 import { default as en_US } from './en_US';
 import { default as en_ZA } from './en_ZA';
@@ -95,6 +96,7 @@ export {
   en_HK,
   en_IE,
   en_IN,
+  en_KE,
   en_NG,
   en_US,
   en_ZA,
@@ -167,6 +169,7 @@ export const allLocales = {
   en_HK,
   en_IE,
   en_IN,
+  en_KE,
   en_NG,
   en_US,
   en_ZA,
